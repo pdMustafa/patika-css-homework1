@@ -1,0 +1,34 @@
+/*************************BAŞLIKLAR ***********************/
+h1,h2,h3,h4,h5,h6 {
+    font-size:40px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+/***************************************** BODY *******************/
+body {
+
+    background-color: white;
+    color:black
+
+}
+
+.fs-20 {
+    font: size 20px;
+
+}
+
+.fs-30 {
+font: size 30px;
+}
+
+.fs-50{
+    font-size:50px;
+}
+#baslik4 {
+    color:orange;
+    font: size 70px;
+    font-style:italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
